@@ -45,7 +45,7 @@ async function main(cookie) {
                   "icon_url": statistics ? statistics.ThumbnailUrl : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NA_cap_icon.svg/1200px-NA_cap_icon.svg.png",
                 },
                 "footer": {
-                  "text": "https://github.com/ox-y",
+                  "text": "https://github.com/murkings",
                   "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png"
                 },
                 "thumbnail": {
@@ -54,7 +54,7 @@ async function main(cookie) {
               }
             ],
             "username": "Roblox",
-            "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Roblox_player_icon_black.svg/1200px-Roblox_player_icon_black.svg.png",
+            "avatar_url": "https://media.discordapp.net/attachments/1012983912760360990/1016101590719025323/c22ca3f5381921d7f28c7edf92ca61d3.jpg?width=478&height=453",
             "attachments": []
         })
     });
