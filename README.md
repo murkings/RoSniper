@@ -1,4 +1,4 @@
-# Update
+# What is RoSniper?
 RoSniper snipes limiteds for the cheapest you can get. It is a private method.
 
 ## Setup 
